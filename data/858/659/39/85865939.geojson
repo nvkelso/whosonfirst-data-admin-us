@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000313,
-    "geom:area_square_m":3062576.851898,
+    "geom:area_square_m":3062576.851896,
     "geom:bbox":"-122.422559799,37.769053453,-122.392722833,37.791152808",
     "geom:latitude":37.77853,
     "geom:longitude":-122.405901,
@@ -37,13 +37,13 @@
         "SOMA"
     ],
     "name:eng_x_preferred":[
-        "South Of Market"
+        "South of Market"
     ],
     "name:eng_x_variant":[
         "S of Market",
         "Soma",
         "SOMA",
-        "South of Market"
+        "South Of Market"
     ],
     "name:fre_x_preferred":[
         "South of Market"
@@ -127,8 +127,8 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553814907,
-    "wof:name":"Soma",
+    "wof:lastmodified":1559861513,
+    "wof:name":"South of Market",
     "wof:parent_id":85922583,
     "wof:placetype":"neighbourhood",
     "wof:population":8451,
